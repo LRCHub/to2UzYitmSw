@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "GILA GILA",
+  "base_artist": "Awich",
+  "createdAt": "2025-12-02T08:02:25.755256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gila Gila Gila Dil Gila Gila",
+      "artist": "Adnan Sami, Sunidhi Chauhan",
+      "has_synced": true,
+      "path": "select/01_Gila_Gila_Gila_Dil_Gila_Gila_Adnan_Sami,_Sunidhi_Chauhan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GILA GILA",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/02_GILA_GILA_Awich.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GILA GILA (feat. JP THE WAVY)",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/03_GILA_GILA_(feat._JP_THE_WAVY)_Awich.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gila Gila (feat. JP THE WAVY & Yzerr)",
+      "artist": "android.media.metadata.ARTIST",
+      "has_synced": true,
+      "path": "select/04_Gila_Gila_(feat._JP_THE_WAVY_&_Yzerr)_android.media.metadata.ARTIST.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gila Gila Gila Dil Gila Gila",
+      "artist": "Sunidhi Chauhan",
+      "has_synced": true,
+      "path": "select/05_Gila_Gila_Gila_Dil_Gila_Gila_Sunidhi_Chauhan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gila Gila",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/06_Gila_Gila_Awich.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gila Gila (feat. JP THE WAVY & Yzerr)",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/07_Gila_Gila_(feat._JP_THE_WAVY_&_Yzerr)_Awich.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GILA GILA",
+      "artist": "Awich, JP THE WAVY, YZERR",
+      "has_synced": true,
+      "path": "select/08_GILA_GILA_Awich,_JP_THE_WAVY,_YZERR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gila Gila (feat. JP THE WAVY",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/09_Gila_Gila_(feat._JP_THE_WAVY_Awich.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gila Gila",
+      "artist": "Awich\u0000JP THE WAVY\u0000Yzerr",
+      "has_synced": true,
+      "path": "select/10_Gila_Gila_Awich\u0000JP_THE_WAVY\u0000Yzerr.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GILA GILA (feat. JP THE WAVY & YZERR)",
+      "artist": "Awich",
+      "has_synced": false,
+      "path": "select/pl_01_GILA_GILA_(feat._JP_THE_WAVY_&_YZERR)_Awich.txt"
+    }
+  ]
+}
